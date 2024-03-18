@@ -10,7 +10,8 @@ Steps:
 
 3. Now you can run the code.
 
-
+Python code for Q1:
+Q1.py
 
 Video demonstration:
 https://youtu.be/2QmVbLQYxEk 
