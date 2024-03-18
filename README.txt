@@ -9,3 +9,8 @@ Steps:
 	A3 - to the name of the database, postgres - to the name of the user in pgAdmin, 	password - to the password you use in postgres.
 
 3. Now you can run the code.
+
+
+
+Video demonstration:
+https://youtu.be/2QmVbLQYxEk 
